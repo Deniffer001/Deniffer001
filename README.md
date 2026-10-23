@@ -13,10 +13,14 @@ agents build and run them — across iOS, Android, web, and Cloudflare.
 
 | Product | What it is |
 | --- | --- |
+| [**Whiteboard Animation AI**](https://whiteboardanimation.ai) | Upload an illustration and watch it drawn stroke by stroke — sketch first, then colour. |
 | [**Clonesite AI**](https://clonesite.ai) | Turns any public website into an editable React + Tailwind project you own. |
 | [**ExportFramer**](https://exportframer.com) | Moves a Framer site off Framer — export to standalone HTML or React, keep it live anywhere. |
-| [**Whiteboard Animation AI**](https://whiteboardanimation.ai) | Upload an illustration and watch it drawn stroke by stroke — sketch first, then colour. |
 | [**Wearly**](https://wearly-ai.app) | AI wardrobe and outfit planner for iOS and Android, rebuilt on Expo + Convex. |
+
+**Now building: [Growsight](https://growsight.ai)** — agent-native product analytics.
+Product events and the platforms you use, in one workspace your agents can query
+from ChatGPT and Claude.
 
 ## Open source
 
