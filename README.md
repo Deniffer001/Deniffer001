@@ -7,7 +7,7 @@ agent-first. Previously ByteDance (TikTok Live) and A1D.
 I ship consumer AI products, and the CLIs, MCP servers and templates that let
 agents build and run them — across iOS, Android, web, and Cloudflare.
 
-📍 Remote · Shenzhen  ·  ✉️ deniffer.001@gmail.com  ·  🐦 [@lumina\_\_team](https://x.com/lumina__team)
+📍 Remote · Shenzhen  ·  🌐 [celados.com](https://celados.com)  ·  ✉️ deniffer.001@gmail.com  ·  🐦 [@lumina\_\_team](https://x.com/lumina__team)
 
 ## Products
 
